@@ -1,4 +1,4 @@
-# Avalonia.IconPacks
+# Avalonia.IconPacks 
 
 [![Actions Status](https://github.com/ahopper/Avalonia.IconPacks/workflows/.NET%20Core/badge.svg)](https://github.com/ahopper/Avalonia.IconPacks/actions)
 
